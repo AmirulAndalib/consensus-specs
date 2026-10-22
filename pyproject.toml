@@ -2,7 +2,7 @@
 requires = [
   "marko==2.1.4",
   "ruamel.yaml==0.18.14",
-  "setuptools==80.9.0",
+  "setuptools==83.0.0",
   "wheel==0.45.1",
 ]
 
@@ -26,13 +26,13 @@ dependencies = [
   "pycryptodome==3.23.0",
   "remerkleable==0.1.28",
   "ruamel.yaml==0.18.14",
-  "setuptools==80.9.0",
+  "setuptools==83.0.0",
   "trie==3.1.0",
 ]
 
 [project.optional-dependencies]
 test = [
-  "deepdiff==8.5.0",
+  "deepdiff==8.6.2",
   "pytest-cov==6.2.1",
   "pytest-xdist==3.7.0",
   "pytest==8.4.1",
